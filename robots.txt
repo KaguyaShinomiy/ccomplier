@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.comproacs.site
+Sitemap: https://www.comproacs.site/sitemap.xml
